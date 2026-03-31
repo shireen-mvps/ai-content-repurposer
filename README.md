@@ -59,8 +59,8 @@ Each output is tailored to the native culture of that platform — not just the 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/shireen-mvps/ai-content-repurposer.git
-cd ai-content-repurposer
+git clone https://github.com/shireen-mvps/refract.git
+cd refract
 ```
 
 ### 2. Install dependencies
