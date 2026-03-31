@@ -56,5 +56,4 @@ export function Header({ onUpgradeClick }: HeaderProps) {
         </div>
       </div>
     </header>
-  );
-}
+  
